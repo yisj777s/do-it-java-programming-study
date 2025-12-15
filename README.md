@@ -1,2 +1,2 @@
 # Do it! 자바 프로그래밍 입문 - 개정판
-![Do it! 자바 프로그래밍 입문 - 개정판](./Do it! 자바 프로그래밍 입문 - 개정판.png)
+![Do it! 자바 프로그래밍 입문 - 개정판](./do-it-java-programming-cover.png)
