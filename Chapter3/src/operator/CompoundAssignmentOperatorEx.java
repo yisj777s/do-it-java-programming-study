@@ -34,5 +34,13 @@ public class CompoundAssignmentOperatorEx {
 
         num &= 2; // num = num & 2(00001010 & 00000010 → 00000010);
         System.out.println(num); // 2
+
+        num = 10; // 00001010
+
+        num |= 3; // num = num | 3(00001010 | 00000011 → 00001011)
+        System.out.println(num); // 11
+
+        num ^= 2; // num = num ^ 2(00001011 ^ 00000010 → 00001001)
+        System.out.println(num); // 9
     }
 }
